@@ -4,16 +4,21 @@
     <img src="https://github.com/bllackdev/img/blob/master/bllackdev/qutyecq_03.png">
  </p>
  
- _________
- 
-### 📚 My stack:
-- Java & Spring
-- JavaScript 
-- ReactJS & Angular
-- NodeJS & Express
-- Bootstrap
-- HTML & CSS
 
+ 
+<table> 
+  <h4 align="center"> 📚 My stack</h4>
+  <tr> 
+    <td>Java & Spring</td>
+    <td>JavaScript</td> 
+    <td>ReactJS & Angular</td>
+  </tr>
+  <tr>
+   <td>NodeJS & Express</td>
+   <td>Bootstrap</td>
+   <td>HTML & CSS</td>
+  </tr>
+</table>
 __________________
 
 <h1 align="center">
