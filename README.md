@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1 align="center"> Hi there, I'm Raphael Renato!  </h1>
+<h3 align="center">⚡ Freelance Developer⚡  </h3>
+ <p align="center">
+    <img src="https://github.com/bllackdev/img/blob/master/bllackdev/qutyecq_03.png">
+ </p>
+ 
+ _________
+ 
+### 📚 My stack:
+- Java & Spring
+- JavaScript 
+- ReactJS & Angular
+- NodeJS & Express
+- Bootstrap
+- HTML & CSS
 
-<!--
-**bllackdev/bllackdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__________________
 
-Here are some ideas to get you started:
+<h1 align="center">
+📫 Where you can find me:
+  
+  <p align="center"><br/>
+   <a href="https://www.linkedin.com/in/raphael-renato-724437128/">
+    <img src="https://img.shields.io/badge/LINKEDIN-in%2Fraphael--renato%2F-blue?style=plastic&logo=appveyor">
+  </a>
+  
+  <a href="https://www.instagram.com/bllackdev/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-%40bllackdev-ff69b4?style=plastic&logo=appveyor">
+  </a>
+  
+   <a href="https://twitter.com/bllackdev">
+    <img src="http://img.shields.io/badge/TWITTER-%40bllackdev-9cf?style=plastic&logo=appveyor">
+  </a>
+  </a>
+</p>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
