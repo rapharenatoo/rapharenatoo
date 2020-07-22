@@ -4,8 +4,9 @@
     <img src="https://github.com/bllackdev/img/blob/master/bllackdev/qutyecq_03.png">
  </p>
  
+
  <h3 align="center">
-  <table> 
+  <table > 
     <tr align=center>
      <td colspan="3">📚 My stack 📚</td>
     </tr>
