@@ -1,31 +1,29 @@
- <h1 align="center"> Hi there, I'm Raphael Renato!  </h1>
- <h3 align="center">⚡ Freelance Developer ⚡  </h3>
+ <h1 align="center"> Hi there, I'm Raphael Renato! 🍻 </h1>
+ <h3 align="center">⚡ Student ⚡ Freelance ⚡ Developer ⚡  </h3>
  <p align="center">
     <img src="https://github.com/bllackdev/img/blob/master/bllackdev/qutyecq_03.png">
  </p>
  
 
- <h3 align="center">
-  <table > 
-    <tr align=center>
-     <td colspan="3">📚 My stack 📚</td>
-    </tr>
-    <tr align=center> 
-      <td>Java & Spring</td>
-      <td>JavaScript</td> 
-      <td>ReactJS & Angular</td>
-    </tr>
-    <tr align=center>
-     <td>NodeJS & Express</td>
-     <td>Bootstrap</td>
-     <td>HTML & CSS</td>
-    </tr>
-  </table>
-</h3>
+ 
+ <h2 align=center > 
+  📚 My stack 📚
+  <p align=center> 
+    🌐 Java & Spring 🌐
+    JavaScript 🌐
+    ReactJS & Angular 🌐
+  </p>
+  <p align=center>
+    🌐 NodeJS & Express 🌐
+    Bootstrap 🌐
+    HTML & CSS 🌐
+  </p>
+ </h2>
+
 
 
 <h2 align="center">
-📫 Where you can find me:
+📫 Where you can find me 📫
   
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/raphael-renato-724437128/" target="_blank">
