@@ -8,6 +8,8 @@
  
  <h2 align=center > 
   📚 My stack 📚
+ </h2>
+ <h3 align=center >
   <p align=center> 
     🌐 Java & Spring 🌐
     JavaScript 🌐
@@ -18,7 +20,7 @@
     Bootstrap 🌐
     HTML & CSS 🌐
   </p>
- </h2>
+ </h3>
 
 
 
