@@ -1,7 +1,7 @@
  <h1 align="center"> Hi there, I'm Raphael Renato! 🍻 </h1>
  <h3 align="center">⚡ Student ⚡ Freelance ⚡ Developer ⚡  </h3>
  <p align="center">
-    <img src="https://github.com/bllackdev/img/blob/master/bllackdev/qutyecq_03.png">
+    <img src="https://github.com/bllackdev/img/blob/master/bllackdev/icfyzcq.gif">
  </p>
  
 
