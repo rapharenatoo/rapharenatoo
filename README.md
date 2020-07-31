@@ -2,7 +2,7 @@
  <h3 align="center">⚡ Student ⚡ Freelance ⚡ Developer ⚡  </h3>
  <p align="center">
   <a href="https://github.com/bllackdev" target="_blank">
-    <img src="https://github.com/bllackdev/img/blob/master/bllackdev/icfyzcq.gif">
+    <img src="https://github.com/bllackdev/img/blob/master/bllackdev/icfyzcq.gif" height="90" width="90">
   </a>
  </p>
  
@@ -22,6 +22,13 @@
     Bootstrap 🌐
     HTML & CSS 🌐
   </p>
+ 
+ <p align="center">
+  <a href="https://github.com/bllackdev" target="_blank">
+    <img src="https://github.com/bllackdev/img/blob/master/bllackdev/octocat-removebg-transp.png" height="180" width="180">
+  </a>
+ </p>
+
  </h3>
 
 
@@ -44,4 +51,5 @@
   </a>
 </p>
 </h2>
+
 
